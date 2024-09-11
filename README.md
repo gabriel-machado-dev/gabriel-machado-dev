@@ -17,8 +17,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-machado-dev&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/gabriel-machado-dev/gabriel-machado-dev/output/snake.svg" alt="Snake animation" />
-
-###
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
