@@ -12,8 +12,9 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img alt="gabrriel-machado-rpa" src="https://img.shields.io/badge/RPA-d3046c?style=for-the-badge&logo=rpa&logoColor=white">
 </div>
 
 
