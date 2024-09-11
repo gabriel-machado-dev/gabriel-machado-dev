@@ -1,6 +1,14 @@
 ## Vamos automatizar tudo!!!
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
 
 ###
 
@@ -9,5 +17,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-machado-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-machado-dev&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/gabriel-machado-dev/gabriel-machado-dev/output/snake.svg" alt="Snake animation" />
 
 ###
