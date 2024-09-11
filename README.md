@@ -1,15 +1,5 @@
 ## Vamos automatizar tudo!!!
-<h2 align="left">Techs</h2>
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
-
-###
 
 <div>
   
@@ -17,5 +7,14 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-machado-dev&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
+
+<h2 align="left">Techs</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
