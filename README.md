@@ -16,6 +16,8 @@ I'm a python developer enthusiast and currently studying systems analysis and de
 - Teamwork
 - Problem-Solving
 - Adaptability
+- English
+- Spanish(started learning)
 
 ## 📚 Studying
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
