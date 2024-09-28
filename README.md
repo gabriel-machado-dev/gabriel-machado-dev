@@ -24,7 +24,6 @@ I'm a python developer enthusiast and currently studying systems analysis and de
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
 ![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-machado-dev&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-machado-dev&layout=compact)](https://github.com/tondevpy/github-readme-stats)
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
