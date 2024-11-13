@@ -10,6 +10,7 @@ I'm a python developer enthusiast and currently studying systems analysis and de
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Python Automation](https://img.shields.io/badge/Automation%20with%20-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 🌟 Softskills
 - Communication
@@ -20,7 +21,6 @@ I'm a python developer enthusiast and currently studying systems analysis and de
 - Spanish(started learning)
 
 ## 📚 Studying
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
 ![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-machado-dev&show_icons=true)
