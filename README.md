@@ -22,7 +22,7 @@ I'm a python developer enthusiast and currently studying systems analysis and de
 - Spanish(started learning)
 
 ## 📚 Studying
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-machado-dev&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-machado-dev&layout=compact)](https://github.com/tondevpy/github-readme-stats)
