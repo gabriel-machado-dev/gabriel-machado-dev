@@ -28,3 +28,11 @@ Análise de Dados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-machado-dev&layout=compact)](https://github.com/tondevpy/github-readme-stats)
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+## 📞 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/everton-t-9721a0276/](https://www.linkedin.com/in/gabriel-machado-681a6a257/?trk=opento_sprofile_details)">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ </a>
+</p>
