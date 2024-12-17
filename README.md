@@ -2,7 +2,7 @@
 
 I'm a python developer enthusiast and currently studying systems analysis and development at Gran Faculdade. I started my journey in the programming world when I discovered the magic of turning ideas into reality through code. Passionate about automation with python.
 
-- 🔭 Check out some of my projects (Link to portfolio coming soon)
+- 🔭 Check out some of my projects: https://gabrieldiasmachado.wixsite.com/gabrielmachado-1
 - 🌱 Constantly learning and open to new opportunities.
 
 ## 🛠 Skills
